@@ -1,0 +1,11 @@
+# ninja log v5
+0	1799	1663212388058763476	CMakeFiles/test_tuto.dir/testing_main.cpp.o	957bf54ec8df4e27
+1800	4555	1663212390814758271	test/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	832e58c70b488d1c
+4556	5793	1663212392054756035	test/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	f2a33798521ae3b3
+5794	12423	1663212398674745270	test/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	92b54d331c939049
+12424	12613	1663212398830745036	lib/libgtestd.a	373c234df37692bd
+12614	12694	1663212398938744877	lib/libgmockd.a	ed4fbf9695fca83a
+12694	12730	1663212398994744793	lib/libgmock_maind.a	e632a3bccfdcf1e3
+12730	14043	1663212400130743158	test/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	13329f5ae320f791
+14043	14052	1663212400310742904	lib/libgtest_maind.a	a5e0517bd7d0e99
+14052	14553	1663212400810742205	test_tuto	4545f0b7d68ead99

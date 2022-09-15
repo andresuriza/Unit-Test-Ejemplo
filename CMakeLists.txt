@@ -5,7 +5,7 @@ set(CMAKE_CXX_FLAGS "-fprofile-arcs -ftest-coverage")
 
 enable_testing()
 
-add_subdirectory(googletest)
+add_subdirectory(test)
 include_directories(${gtest_SOURCE_DIR}/include ${gtest_SOURCE_DIR})
 include_directories(${gmock_SOURCE_DIR}/include ${gmock_SOURCE_DIR})
 
